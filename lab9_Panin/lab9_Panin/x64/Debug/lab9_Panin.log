@@ -1,0 +1,8 @@
+﻿  Source.c
+D:\project\lab9_Panin\lab9_Panin\Source.c(7,5): warning C4013: task1_1: нет определения; предполагается "extern" с возвратом типа "int"
+D:\project\lab9_Panin\lab9_Panin\Source.c(8,5): warning C4013: task1_2: нет определения; предполагается "extern" с возвратом типа "int"
+D:\project\lab9_Panin\lab9_Panin\Source.c(9,5): warning C4013: task1_3: нет определения; предполагается "extern" с возвратом типа "int"
+D:\project\lab9_Panin\lab9_Panin\Source.c(10,5): warning C4013: task2: нет определения; предполагается "extern" с возвратом типа "int"
+D:\project\lab9_Panin\lab9_Panin\Source.c(11,5): warning C4013: task3: нет определения; предполагается "extern" с возвратом типа "int"
+D:\project\lab9_Panin\lab9_Panin\Source.c(73,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lab9_Panin.vcxproj -> D:\project\lab9_Panin\x64\Debug\lab9_Panin.exe
